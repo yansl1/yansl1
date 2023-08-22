@@ -1,3 +1,4 @@
 this change 
 new commit 2nd
 3nd commit, new change no staged
+4th commit, amend
